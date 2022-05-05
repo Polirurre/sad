@@ -10,18 +10,12 @@ $ npm install --global WebscrapperUI
 ```
 
 
-## CLI
+# CLI
 
 ```
-$ WebscrapperUI --help
+$ WebscrapperUI
 
   Usage
     $ WebscrapperUI
-
-  Options
-    --name  Your name
-
-  Examples
-    $ WebscrapperUI --name=Jane
-    Hello, Jane
-```
+    It works as a search bar for the categories of books scraped
+  
