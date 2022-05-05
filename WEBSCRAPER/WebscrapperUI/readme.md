@@ -17,11 +17,3 @@ $ WebscrapperUI --help
 
   Usage
     $ WebscrapperUI
-
-  Options
-    --name  Your name
-
-  Examples
-    $ WebscrapperUI --name=Jane
-    Hello, Jane
-```
