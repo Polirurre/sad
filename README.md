@@ -8,4 +8,3 @@ Repositori per fer tracking dels projectes desenvolupats a l'assignatura per Pol
 - Webscrapper (final project): Dividit entre la part FrontEnd i BackEnd. Desenvolupat per Pol Irurre
   - FrontEnd funciona com a search bar desenvolupat en una aplicació de react CLI (command line interface) analitzant un fitxer de data.json. 
   - BackEnd funciona com a webscrapper amb Pupeteer extraient dades de llibres per emmagatzemar-les en un fitxer .json que conté característiques d'aquests llibres.
-- Joc Python: https://github.com/aaronvaqueroupc/Joc-actualitzat. Desenvolupat per Aaron Vaquero
